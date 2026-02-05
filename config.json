@@ -1,0 +1,20 @@
+{
+  "user": {
+    "phone": "",
+    "password": ""
+  },
+  "products": [
+    {
+      "name": "飞天53%vol 500ml贵州茅台酒（带杯）",
+      "url": "",
+      "purchase_time": "09:00:00",
+      "quantity": 6
+    }
+  ],
+  "settings": {
+    "headless": false,
+    "timeout": 30,
+    "retry_times": 3,
+    "advance_seconds": 2
+  }
+}
